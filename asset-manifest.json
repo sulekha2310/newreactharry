@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/newreactharry/static/css/main.073c9b0a.css",
+    "main.js": "/newreactharry/static/js/main.f4bdb2f1.js",
+    "static/js/787.9067eff1.chunk.js": "/newreactharry/static/js/787.9067eff1.chunk.js",
+    "index.html": "/newreactharry/index.html",
+    "main.073c9b0a.css.map": "/newreactharry/static/css/main.073c9b0a.css.map",
+    "main.f4bdb2f1.js.map": "/newreactharry/static/js/main.f4bdb2f1.js.map",
+    "787.9067eff1.chunk.js.map": "/newreactharry/static/js/787.9067eff1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f4bdb2f1.js"
+  ]
+}
